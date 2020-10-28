@@ -9,4 +9,4 @@ var a = function(){
 function slowfunc(callback){
     callback();
 }
-slowfunc(a);
+slowfunc(a);q
